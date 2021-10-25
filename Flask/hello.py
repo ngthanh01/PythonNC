@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for
+from flask import Flask, render_template
 import datetime
 import sys
 if sys.version_info < (3,0):  # nghĩa là đây là cho phiên bản Python 2.x
